@@ -5,6 +5,7 @@ In this project 800 breast ultrasound images along with their mask(ground truth)
 Two Approaches are used:
 
 1: Without mask files
+
 2: Utilizing mask files by creating overlay
 
 
